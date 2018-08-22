@@ -1,0 +1,24 @@
+body {
+   background-image: url("qbkls.png");
+} 
+
+h1 {
+    color: black;
+}
+h2 {
+	color: darkblue;
+}
+h3 {
+	color: darkblue;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+h2 a {
+   display:inline;
+   list-style:none;
+   margin:0px;
+   padding:0px;
+}
